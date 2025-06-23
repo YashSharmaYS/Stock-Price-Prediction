@@ -17,9 +17,8 @@ These results indicate strong model performance for short-term forecasting.
 
 ## Structure
 - notebook.ipynb # Main Jupyter notebook with code, analysis, and plots
-- requirements.txt # List of Python dependencies
-- README.md # Project overview and documentation
-- plots/ # (Optional) Folder containing saved forecast and visualization images
-- data/ # (Optional) Sample dataset or links (if licensing allows)
-- LICENSE # (Optional) License file (e.g. MIT)
+- requirements.txt 
+- README.md 
+- plots
+- data
 
